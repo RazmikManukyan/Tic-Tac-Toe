@@ -13,7 +13,6 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
   - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -64,7 +63,8 @@ Tic Tac Toe is a classic two-player game where players take turns marking spaces
 3. **Play Until You Win:**
    - Players take turns to make their moves until one player wins or the game ends in a draw.
 
-   https://media.giphy.com/media/gR92EF4p9XyEHyD2n5/giphy.gif
+![giphy](https://github.com/RazmikManukyan/Tic-Tac-Toe/assets/107432984/2372010a-c799-4f47-a1af-e4c7c7446ee9)
+
 
 ## Contributing
 
