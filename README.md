@@ -2,7 +2,8 @@
 
 Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-![Tic Tac Toe](tic_tac_toe.png)
+![Tic Tac Toe](![download](https://github.com/RazmikManukyan/Tic-Tac-Toe/assets/107432984/e9610a95-501b-4190-a41c-16b2c6c49565))
+
 
 ## Table of Contents
 
